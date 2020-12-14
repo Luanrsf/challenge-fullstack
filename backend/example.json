@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "5ddfdde0fc13ae6c63000032",
+        "amount": 24092,
+        "name": "Beets - Golden",
+        "picture": "http://dummyimage.com/107x156.bmp/ff4444/ffffff",
+        "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "price": 1000.0,
+        "variations": [
+            {
+                "amount": 28798,
+                "picture": "http://dummyimage.com/107x156.bmp/ff4444/ffffff",
+                "name": "Tart - Butter Plain Squares",
+                "price": 900.0,
+                "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+            },
+            {
+                "amount": 66967,
+                "picture": "http://dummyimage.com/107x156.bmp/ff4444/ffffff",
+                "name": "Grenadine",
+                "price": 1001.0,
+                "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+            },
+            {
+                "picture": "http://dummyimage.com/107x156.bmp/ff4444/ffffff",
+                "amount": 13728,
+                "name": "Bar - Granola Trail Mix Fruit Nut",
+                "picture": "http://dummyimage.com/172x203.png/dddddd/000000",
+                "price": 1000.0
+            }
+        ]
+    }
+]
