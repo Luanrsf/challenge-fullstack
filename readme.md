@@ -1,11 +1,11 @@
 ## Back-end setup
 
-cd backend
-yarn
-yarn dev:server
+cd backend</br>
+yarn</br>
+yarn dev:server</br>
 
 ## Front-end setup
 
-cd frontend
-yarn
-yarn start
+cd frontend</br>
+yarn</br>
+yarn start</br>
